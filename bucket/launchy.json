@@ -5,7 +5,6 @@
   "license": "Freeware",
   "url": "https://sourceforge.net/project/kit-extra/apps/Launchy2.5.exe",
   "hash": "sha1:35d759b445aad11e0692cd6c237f741aebc45305",
-  "innosetup": true,
   "bin": "Launchy.exe",
   "shortcuts": [["Launchy.exe", "Launchy"]]
 }
