@@ -1,0 +1,11 @@
+{
+  "version": "2.5",
+  "description": "Launchy is a free cross-platform utility designed to help you forget about your start menu, the icons on your desktop, and even your file manager. Launchy indexes the programs in your start menu and can launch your documents, project files, folders, and bookmarks with just a few keystrokes!",
+  "homepage": "https://www.launchy.net/",
+  "license": "Freeware",
+  "url": "https://sourceforge.net/project/kit-extra/apps/Launchy2.5.exe",
+  "hash": "sha1:35d759b445aad11e0692cd6c237f741aebc45305",
+  "innosetup": true,
+  "bin": "Launchy.exe",
+  "shortcuts": [["Launchy.exe", "Launchy"]]
+}
